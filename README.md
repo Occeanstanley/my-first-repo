@@ -1,2 +1,2 @@
-# my-first-repo
+# Little Lemon Project
 practice account for learning Git
